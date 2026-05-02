@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fgstack.saldo",
+        "sha256_cert_fingerprints": [
+        "17:C6:D2:BA:4D:F2:0B:3C:D3:AE:10:6D:F0:BC:44:A3:5F:7D:B3:0B:D6:B0:C9:BB:B1:69:AB:E7:CE:E0:B1:CC"
+      ]
+    }
+  }
+]

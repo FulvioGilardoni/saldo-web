@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["TEAMID.com.fgstack.saldo"],
+        "components": [
+          { "/": "/join/*", "comment": "Invito gruppo" },
+          { "/": "/auth/magic-link", "comment": "Magic link email" }
+        ]
+      }
+    ]
+  }
+}
