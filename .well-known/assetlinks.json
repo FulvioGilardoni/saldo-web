@@ -5,8 +5,9 @@
       "namespace": "android_app",
       "package_name": "com.fgstack.saldo",
         "sha256_cert_fingerprints": [
-        "17:C6:D2:BA:4D:F2:0B:3C:D3:AE:10:6D:F0:BC:44:A3:5F:7D:B3:0B:D6:B0:C9:BB:B1:69:AB:E7:CE:E0:B1:CC"
-      ]
+          "17:C6:D2:BA:4D:F2:0B:3C:D3:AE:10:6D:F0:BC:44:A3:5F:7D:B3:0B:D6:B0:C9:BB:B1:69:AB:E7:CE:E0:B1:CC",
+          "82:DA:A8:69:6C:44:23:11:B8:22:3A:0B:15:AA:15:38:77:35:CD:BA:C6:59:C8:F7:25:1C:D0:46:4F:BB:6F:55"
+        ]
     }
   }
 ]
